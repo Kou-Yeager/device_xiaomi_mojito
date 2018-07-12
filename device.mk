@@ -381,6 +381,7 @@ PRODUCT_PACKAGES += \
     MojitoAperture \
     MojitoCarrierConfig \
     MojitoFrameworks \
+    MojitoLineageSDK \
     MojitoSettingsProvider \
     MojitoSettings \
     MojitoSystemUI \
